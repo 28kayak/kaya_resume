@@ -16,8 +16,7 @@ Techinical Consulting to clients about a search engine.
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Search Depertment, Rakuten Group Inc </span> 
-<span>Nov 2020 -- Present</span>
+### <span>Search Depertment, Rakuten Group Inc </span> <span>Nov 2020 -- Present</span>
 Working closely with Bussiness Units and Techinical Engineers. 
 
  - Explain search realted technology to clients; including both non-techinical and techinical people.
@@ -29,8 +28,7 @@ Working closely with Bussiness Units and Techinical Engineers.
  
 -  Main technologies: Apache Solr, Cassandora, Git, python
 
-### <span>Roundhuit Co., Ltd</span>
-  <span>Sep 2018 -- Oct 2020</span>
+### <span>Roundhuit Co., Ltd</span><span>Sep 2018 -- Oct 2020</span>
 Apache Solr's customer supports 
  
  - Consulting service for a search engine, especially Apache Solr.
@@ -39,9 +37,9 @@ Apache Solr's customer supports
  - Developing web applications with search service.
  -  Main technologies: Java, Apache Solr, OpenNLP , Manifold-CF, Play,GitLab, vue.js 
 
- ### <span>laiblitz. Inc (part time job) </span>
-  <span>Oct, 2017- Mar, 2018</span>
- A programmer for a part time job.
+### <span>laiblitz. Inc (part time job) </span> <span>Oct, 2017- Mar, 2018</span>
+
+A programmer for a part time job.
  - Help to implement WEB service for professional baseball-teams in Japan.
  - The WEB service is to maintain and organize players’ information such as health, game-contribution, and so on.
  - Main technologies : Ruby on Rails, PostgreSQL, HTML, CSS, github
@@ -72,7 +70,7 @@ Apache Solr's customer supports
  - Pearson STEM Conference Speaker in “We Are the 18 Percent”
  - CoderDojo Silicon Valley 
 
- ## All Links
+## All Links
  - Women's Career: [https://rakuten.today/blog-ja/womens-career-kaya-2022-j.html?lang=ja](https://rakuten.today/blog-ja/womens-career-kaya-2022-j.html?lang=ja)
  - Certificate from Coursera:[https://bit.ly/36B3uAY](https://bit.ly/36B3uAY)
  - Apache Solr Study Session: [https://solr.doorkeeper.jp/events/96609](https://solr.doorkeeper.jp/events/96609)
