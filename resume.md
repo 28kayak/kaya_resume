@@ -9,9 +9,8 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
+Software Engineer at Rakuten
+Techinical Consulting to clients about a search engine.
 
 ## Experience
 
@@ -26,7 +25,8 @@ Working closely with Bussiness Units and Techinical Engineers.
  - Providing technical support for clients, contact DEV team if necessary, and respond to clients in a timely manner.
 - Implement configs as based on clients requests
 - Conduct AB test to evaluate changes for search relevancy
-- selected as one of the Women's Career https://rakuten.today/blog-ja/womens-career-kaya-2022-j.html?lang=ja 
+- selected as one of the Women's Career [womens-career-kaya-2022](https://rakuten.today/blog-ja/womens-career-kaya-2022-j.html?lang=ja )
+ 
 -  Main technologies: Apache Solr, Cassandora, Git, python
 
 ### <span>Roundhuit Co., Ltd</span>
@@ -48,7 +48,7 @@ Apache Solr's customer supports
 
 ## Projects
 
-### <span>Managing Server Migration</span> 
+### <span>Search System Upgrade</span> 
 <span>Fall 2022</span>
    - In order to upgrade our system, we needed to migrate servers seemlessly
    - Communicate all stakeholders(clients, dev, SRE) in both Japanese and English to migrate seemlessly
@@ -66,8 +66,13 @@ Apache Solr's customer supports
 
 ## Volunteering/ Extracurricular Activities
 
- - Certificate from Coursera: Text Retrieval and Search Engines https://bit.ly/36B3uAY May 2020
- - Apache Solr study session speaker: https://solr.doorkeeper.jp/events/96609  Oct, 2019 
+ - Certificate from Coursera: Text Retrieval and Search Engines: [Certificate](https://bit.ly/36B3uAY)  May 2020
+ - Apache Solr study session speaker  Oct, 2019 
  - STEM NOW (STEM Network Of Women) Member 
  - Pearson STEM Conference Speaker in “We Are the 18 Percent”
  - CoderDojo Silicon Valley 
+
+ ## All Links
+ - Women's Career: [https://rakuten.today/blog-ja/womens-career-kaya-2022-j.html?lang=ja](https://rakuten.today/blog-ja/womens-career-kaya-2022-j.html?lang=ja)
+ - Certificate from Coursera:[https://bit.ly/36B3uAY](https://bit.ly/36B3uAY)
+ - Apache Solr Study Session: [https://solr.doorkeeper.jp/events/96609](https://solr.doorkeeper.jp/events/96609)
