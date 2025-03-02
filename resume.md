@@ -41,7 +41,7 @@ Apache Solr's customer supports
 
  ### <span>laiblitz. Inc (part time job) </span>
   <span>Oct, 2017- Mar, 2018</span>
- 
+ A programmer for a part time job.
  - Help to implement WEB service for professional baseball-teams in Japan.
  - The WEB service is to maintain and organize players’ information such as health, game-contribution, and so on.
  - Main technologies : Ruby on Rails, PostgreSQL, HTML, CSS, github
