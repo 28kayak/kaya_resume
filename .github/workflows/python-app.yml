@@ -36,7 +36,7 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: kaya_resume
-        path: output/test/code-coverage.html
+        path: resume.html
     - name: 'Upload Artifact'
       uses: actions/upload-artifact@v4
       with:
