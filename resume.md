@@ -39,7 +39,6 @@ Apache Solr's customer supports
 
 ### <span>laiblitz. Inc (part time job) </span> <span>Oct, 2017- Mar, 2018</span>
 
-A programmer for a part time job.
  - Help to implement WEB service for professional baseball-teams in Japan.
  - The WEB service is to maintain and organize players’ information such as health, game-contribution, and so on.
  - Main technologies : Ruby on Rails, PostgreSQL, HTML, CSS, github
@@ -55,7 +54,7 @@ A programmer for a part time job.
 ## Education
 ### <span>San Jose State University</span> <span>2011 -- 2014</span>
 
-  - B.S. Computer Science
+  - B.S. Computer Science 
   - Course Work
     - Mathematical Modeling
     - Intro to Artificial Intelligence
@@ -69,6 +68,7 @@ A programmer for a part time job.
  - STEM NOW (STEM Network Of Women) Member 
  - Pearson STEM Conference Speaker in “We Are the 18 Percent”
  - CoderDojo Silicon Valley 
+
 
 ## All Links
  - Women's Career: [https://rakuten.today/blog-ja/womens-career-kaya-2022-j.html?lang=ja](https://rakuten.today/blog-ja/womens-career-kaya-2022-j.html?lang=ja)
